@@ -1,0 +1,172 @@
+[
+  {
+    "name": "#1",
+    "dna": "1304200",
+    "edition": 1,
+    "description": "This is an NFT made by the coolest future milionaire",
+    "image": "https://alexandro/nft/1",
+    "date": 1635587903321,
+    "attributes": [
+      { "trait_type": "Face", "value": "Black Face" },
+      { "trait_type": "Mouth", "value": "Mouth Pink" },
+      { "trait_type": "Nose", "value": "Nose Pink" },
+      { "trait_type": "Eyes", "value": "Eyes Asiatic" },
+      { "trait_type": "Ears", "value": "Right Earring" },
+      { "trait_type": "Beard", "value": "White Beard" },
+      { "trait_type": "Hair", "value": "Ciucurei" }
+    ]
+  },
+  {
+    "name": "#2",
+    "dna": "0000000",
+    "edition": 2,
+    "description": "This is an NFT made by the coolest future milionaire",
+    "image": "https://alexandro/nft/2",
+    "date": 1635587903326,
+    "attributes": [
+      { "trait_type": "Face", "value": "White Face" },
+      { "trait_type": "Mouth", "value": "Mouth Black" },
+      { "trait_type": "Nose", "value": "Nose Pink" },
+      { "trait_type": "Eyes", "value": "Eyes Vertical" },
+      { "trait_type": "Ears", "value": "Regular Ears" },
+      { "trait_type": "Beard", "value": "White Beard" },
+      { "trait_type": "Hair", "value": "Ciucurei" }
+    ]
+  },
+  {
+    "name": "#3",
+    "dna": "1000000",
+    "edition": 3,
+    "description": "This is an NFT made by the coolest future milionaire",
+    "image": "https://alexandro/nft/3",
+    "date": 1635587903328,
+    "attributes": [
+      { "trait_type": "Face", "value": "Black Face" },
+      { "trait_type": "Mouth", "value": "Mouth Black" },
+      { "trait_type": "Nose", "value": "Nose Pink" },
+      { "trait_type": "Eyes", "value": "Eyes Vertical" },
+      { "trait_type": "Ears", "value": "Regular Ears" },
+      { "trait_type": "Beard", "value": "White Beard" },
+      { "trait_type": "Hair", "value": "Ciucurei" }
+    ]
+  },
+  {
+    "name": "#4",
+    "dna": "1504000",
+    "edition": 4,
+    "description": "This is an NFT made by the coolest future milionaire",
+    "image": "https://alexandro/nft/4",
+    "date": 1635587903330,
+    "attributes": [
+      { "trait_type": "Face", "value": "Black Face" },
+      { "trait_type": "Mouth", "value": "Mouth Violet" },
+      { "trait_type": "Nose", "value": "Nose Pink" },
+      { "trait_type": "Eyes", "value": "Eyes Asiatic" },
+      { "trait_type": "Ears", "value": "Regular Ears" },
+      { "trait_type": "Beard", "value": "White Beard" },
+      { "trait_type": "Hair", "value": "Ciucurei" }
+    ]
+  },
+  {
+    "name": "#5",
+    "dna": "1004000",
+    "edition": 5,
+    "description": "This is an NFT made by the coolest future milionaire",
+    "image": "https://alexandro/nft/5",
+    "date": 1635587903334,
+    "attributes": [
+      { "trait_type": "Face", "value": "Black Face" },
+      { "trait_type": "Mouth", "value": "Mouth Black" },
+      { "trait_type": "Nose", "value": "Nose Pink" },
+      { "trait_type": "Eyes", "value": "Eyes Asiatic" },
+      { "trait_type": "Ears", "value": "Regular Ears" },
+      { "trait_type": "Beard", "value": "White Beard" },
+      { "trait_type": "Hair", "value": "Ciucurei" }
+    ]
+  },
+  {
+    "name": "#6",
+    "dna": "0000010",
+    "edition": 6,
+    "description": "This is an NFT made by the coolest future milionaire",
+    "image": "https://alexandro/nft/6",
+    "date": 1635587903336,
+    "attributes": [
+      { "trait_type": "Face", "value": "White Face" },
+      { "trait_type": "Mouth", "value": "Mouth Black" },
+      { "trait_type": "Nose", "value": "Nose Pink" },
+      { "trait_type": "Eyes", "value": "Eyes Vertical" },
+      { "trait_type": "Ears", "value": "Regular Ears" },
+      { "trait_type": "Beard", "value": "Black Beard" },
+      { "trait_type": "Hair", "value": "Ciucurei" }
+    ]
+  },
+  {
+    "name": "#7",
+    "dna": "0314000",
+    "edition": 7,
+    "description": "This is an NFT made by the coolest future milionaire",
+    "image": "https://alexandro/nft/7",
+    "date": 1635587903338,
+    "attributes": [
+      { "trait_type": "Face", "value": "White Face" },
+      { "trait_type": "Mouth", "value": "Mouth Pink" },
+      { "trait_type": "Nose", "value": "Nose Bleed" },
+      { "trait_type": "Eyes", "value": "Eyes Asiatic" },
+      { "trait_type": "Ears", "value": "Regular Ears" },
+      { "trait_type": "Beard", "value": "White Beard" },
+      { "trait_type": "Hair", "value": "Ciucurei" }
+    ]
+  },
+  {
+    "name": "#8",
+    "dna": "1010010",
+    "edition": 8,
+    "description": "This is an NFT made by the coolest future milionaire",
+    "image": "https://alexandro/nft/8",
+    "date": 1635587903340,
+    "attributes": [
+      { "trait_type": "Face", "value": "Black Face" },
+      { "trait_type": "Mouth", "value": "Mouth Black" },
+      { "trait_type": "Nose", "value": "Nose Bleed" },
+      { "trait_type": "Eyes", "value": "Eyes Vertical" },
+      { "trait_type": "Ears", "value": "Regular Ears" },
+      { "trait_type": "Beard", "value": "Black Beard" },
+      { "trait_type": "Hair", "value": "Ciucurei" }
+    ]
+  },
+  {
+    "name": "#9",
+    "dna": "0010200",
+    "edition": 9,
+    "description": "This is an NFT made by the coolest future milionaire",
+    "image": "https://alexandro/nft/9",
+    "date": 1635587903341,
+    "attributes": [
+      { "trait_type": "Face", "value": "White Face" },
+      { "trait_type": "Mouth", "value": "Mouth Black" },
+      { "trait_type": "Nose", "value": "Nose Bleed" },
+      { "trait_type": "Eyes", "value": "Eyes Vertical" },
+      { "trait_type": "Ears", "value": "Right Earring" },
+      { "trait_type": "Beard", "value": "White Beard" },
+      { "trait_type": "Hair", "value": "Ciucurei" }
+    ]
+  },
+  {
+    "name": "#10",
+    "dna": "0004010",
+    "edition": 10,
+    "description": "This is an NFT made by the coolest future milionaire",
+    "image": "https://alexandro/nft/10",
+    "date": 1635587903343,
+    "attributes": [
+      { "trait_type": "Face", "value": "White Face" },
+      { "trait_type": "Mouth", "value": "Mouth Black" },
+      { "trait_type": "Nose", "value": "Nose Pink" },
+      { "trait_type": "Eyes", "value": "Eyes Asiatic" },
+      { "trait_type": "Ears", "value": "Regular Ears" },
+      { "trait_type": "Beard", "value": "Black Beard" },
+      { "trait_type": "Hair", "value": "Ciucurei" }
+    ]
+  }
+]
