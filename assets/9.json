@@ -1,1 +1,17 @@
-{"name":"#9","dna":"0010200","edition":9,"description":"This is an NFT made by the coolest future milionaire","image":"https://alexandro/nft/9","date":1635587903341,"attributes":[{"trait_type":"Face","value":"White Face"},{"trait_type":"Mouth","value":"Mouth Black"},{"trait_type":"Nose","value":"Nose Bleed"},{"trait_type":"Eyes","value":"Eyes Vertical"},{"trait_type":"Ears","value":"Right Earring"},{"trait_type":"Beard","value":"White Beard"},{"trait_type":"Hair","value":"Ciucurei"}]}
+{
+  "name": "#9",
+  "dna": "1504010",
+  "edition": 9,
+  "description": "This is an NFT made by the coolest future milionaire",
+  "tokenURI": "https://alexandronicolae666.github.io/nftassets/assets/9.json",
+  "date": 1635595035103,
+  "attributes": [
+    { "trait_type": "Face", "value": "Black Face" },
+    { "trait_type": "Mouth", "value": "Mouth Violet" },
+    { "trait_type": "Nose", "value": "Nose Pink" },
+    { "trait_type": "Eyes", "value": "Eyes Asiatic" },
+    { "trait_type": "Ears", "value": "Regular Ears" },
+    { "trait_type": "Beard", "value": "Black Beard" },
+    { "trait_type": "Hair", "value": "Ciucurei" }
+  ]
+}
