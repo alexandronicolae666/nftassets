@@ -1,16 +1,16 @@
 {
   "name": "#8",
-  "dna": "0000010",
+  "dna": "0304310",
   "edition": 8,
   "description": "This is an NFT made by the coolest future milionaire",
-  "tokenURI": "https://alexandronicolae666.github.io/nftassets/assets/8.json",
-  "date": 1635595035101,
+  "image": "https://alexandronicolae666.github.io/nftassets/assets/8.png",
+  "date": 1635596053650,
   "attributes": [
     { "trait_type": "Face", "value": "White Face" },
-    { "trait_type": "Mouth", "value": "Mouth Black" },
+    { "trait_type": "Mouth", "value": "Mouth Pink" },
     { "trait_type": "Nose", "value": "Nose Pink" },
-    { "trait_type": "Eyes", "value": "Eyes Vertical" },
-    { "trait_type": "Ears", "value": "Regular Ears" },
+    { "trait_type": "Eyes", "value": "Eyes Asiatic" },
+    { "trait_type": "Ears", "value": "Both Ears Earring" },
     { "trait_type": "Beard", "value": "Black Beard" },
     { "trait_type": "Hair", "value": "Ciucurei" }
   ]
